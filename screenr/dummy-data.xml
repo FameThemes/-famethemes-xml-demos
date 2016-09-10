@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.6.1" created="2016-09-09 02:24" -->
+<!-- generator="WordPress/4.6.1" created="2016-09-10 02:24" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Screenr</title>
 	<link>http://demos.famethemes.com/screenr</link>
 	<description>Just another FameThemes Demos Sites site</description>
-	<pubDate>Fri, 09 Sep 2016 02:24:58 +0000</pubDate>
+	<pubDate>Sat, 10 Sep 2016 02:24:08 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demos.famethemes.com/</wp:base_site_url>
@@ -1945,7 +1945,7 @@ Integer elementum massa at nulla placerat varius. Suspendisse in libero risus, i
 		</wp:postmeta>
 	</item>
 	<item>
-		<title>Contact form 1</title>
+		<title>Contact form frontpage</title>
 		<link>http://demos.famethemes.com/screenr/?post_type=wpcf7_contact_form&#038;p=4</link>
 		<pubDate>Mon, 05 Sep 2016 18:31:24 +0000</pubDate>
 		<dc:creator><![CDATA[famedemo]]></dc:creator>
