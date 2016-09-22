@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-<!-- generator="WordPress/4.4.2" created="2016-03-18 08:51" -->
+<!-- generator="WordPress/4.6.1" created="2016-09-22 03:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>OnePress</title>
 	<link>http://demos.famethemes.com/onepress</link>
 	<description>Just another FameThemes Demos Sites site</description>
-	<pubDate>Fri, 18 Mar 2016 08:51:52 +0000</pubDate>
+	<pubDate>Thu, 22 Sep 2016 03:47:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demos.famethemes.com/</wp:base_site_url>
@@ -37,37 +37,244 @@
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[famedemo]]></wp:author_login><wp:author_email><![CDATA[contact@famethemes.com]]></wp:author_email><wp:author_display_name><![CDATA[FameThemes]]></wp:author_display_name><wp:author_first_name><![CDATA[FameThemes]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
-	<wp:category><wp:term_id>9</wp:term_id><wp:category_nicename><![CDATA[apps]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Apps]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>14</wp:term_id><wp:category_nicename><![CDATA[markup]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Markup]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>8</wp:term_id><wp:category_nicename><![CDATA[one-page]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[One Page]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>3</wp:term_id><wp:category_nicename><![CDATA[responsive]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Responsive]]></wp:cat_name></wp:category>
-	<wp:category><wp:term_id>1</wp:term_id><wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name></wp:category>
-	<wp:tag><wp:term_id>4</wp:term_id><wp:tag_slug><![CDATA[alignment]]></wp:tag_slug><wp:tag_name><![CDATA[alignment]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>10</wp:term_id><wp:tag_slug><![CDATA[alignment-2]]></wp:tag_slug><wp:tag_name><![CDATA[alignment]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>11</wp:term_id><wp:tag_slug><![CDATA[captions-2]]></wp:tag_slug><wp:tag_name><![CDATA[captions]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>5</wp:term_id><wp:tag_slug><![CDATA[content]]></wp:tag_slug><wp:tag_name><![CDATA[content]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>12</wp:term_id><wp:tag_slug><![CDATA[content-2]]></wp:tag_slug><wp:tag_name><![CDATA[content]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>6</wp:term_id><wp:tag_slug><![CDATA[css]]></wp:tag_slug><wp:tag_name><![CDATA[css]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>13</wp:term_id><wp:tag_slug><![CDATA[image]]></wp:tag_slug><wp:tag_name><![CDATA[image]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>7</wp:term_id><wp:tag_slug><![CDATA[markup]]></wp:tag_slug><wp:tag_name><![CDATA[markup]]></wp:tag_name></wp:tag>
-	<wp:tag><wp:term_id>15</wp:term_id><wp:tag_slug><![CDATA[markup-2]]></wp:tag_slug><wp:tag_name><![CDATA[markup]]></wp:tag_name></wp:tag>
-	<wp:term><wp:term_id><![CDATA[20]]></wp:term_id><wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy><wp:term_slug><![CDATA[black]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Black]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[21]]></wp:term_id><wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy><wp:term_slug><![CDATA[blue]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Blue]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[19]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[external]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[external]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[22]]></wp:term_id><wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy><wp:term_slug><![CDATA[green]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Green]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[17]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[grouped]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[grouped]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[16]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[simple]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[simple]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[18]]></wp:term_id><wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy><wp:term_slug><![CDATA[variable]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[variable]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[23]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[clothing]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Clothing]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[24]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[hoodies]]></wp:term_slug><wp:term_parent><![CDATA[clothing]]></wp:term_parent><wp:term_name><![CDATA[Hoodies]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[25]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[music]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Music]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[26]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[posters]]></wp:term_slug><wp:term_parent><![CDATA[]]></wp:term_parent><wp:term_name><![CDATA[Posters]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[27]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[singles]]></wp:term_slug><wp:term_parent><![CDATA[music]]></wp:term_parent><wp:term_name><![CDATA[Singles]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[28]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[t-shirts]]></wp:term_slug><wp:term_parent><![CDATA[clothing]]></wp:term_parent><wp:term_name><![CDATA[T-shirts]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id><![CDATA[29]]></wp:term_id><wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy><wp:term_slug><![CDATA[albums]]></wp:term_slug><wp:term_parent><![CDATA[music]]></wp:term_parent><wp:term_name><![CDATA[Albums]]></wp:term_name></wp:term>
-	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name></wp:term>
+	<wp:category>
+		<wp:term_id>9</wp:term_id>
+		<wp:category_nicename><![CDATA[apps]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Apps]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>14</wp:term_id>
+		<wp:category_nicename><![CDATA[markup]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Markup]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>8</wp:term_id>
+		<wp:category_nicename><![CDATA[one-page]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[One Page]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[responsive]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Responsive]]></wp:cat_name>
+	</wp:category>
+	<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[uncategorized]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[Uncategorized]]></wp:cat_name>
+	</wp:category>
+	<wp:tag>
+		<wp:term_id>4</wp:term_id>
+		<wp:tag_slug><![CDATA[alignment]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[alignment]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>10</wp:term_id>
+		<wp:tag_slug><![CDATA[alignment-2]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[alignment]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>11</wp:term_id>
+		<wp:tag_slug><![CDATA[captions-2]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[captions]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>5</wp:term_id>
+		<wp:tag_slug><![CDATA[content]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[content]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>12</wp:term_id>
+		<wp:tag_slug><![CDATA[content-2]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[content]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[css]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[css]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>30</wp:term_id>
+		<wp:tag_slug><![CDATA[export]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[export]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>13</wp:term_id>
+		<wp:tag_slug><![CDATA[image]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[image]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>7</wp:term_id>
+		<wp:tag_slug><![CDATA[markup]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[markup]]></wp:tag_name>
+	</wp:tag>
+	<wp:tag>
+		<wp:term_id>15</wp:term_id>
+		<wp:tag_slug><![CDATA[markup-2]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[markup]]></wp:tag_name>
+	</wp:tag>
+	<wp:term>
+		<wp:term_id><![CDATA[20]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[black]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Black]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[21]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[blue]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Blue]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[19]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[external]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[external]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[22]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[pa_color]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[green]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Green]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[17]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[grouped]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[grouped]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[16]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[simple]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[simple]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[18]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_type]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[variable]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[variable]]></wp:term_name>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[23]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[clothing]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Clothing]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[24]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[hoodies]]></wp:term_slug>
+		<wp:term_parent><![CDATA[clothing]]></wp:term_parent>
+		<wp:term_name><![CDATA[Hoodies]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[25]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[music]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Music]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[posters]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Posters]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[singles]]></wp:term_slug>
+		<wp:term_parent><![CDATA[music]]></wp:term_parent>
+		<wp:term_name><![CDATA[Singles]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[28]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[t-shirts]]></wp:term_slug>
+		<wp:term_parent><![CDATA[clothing]]></wp:term_parent>
+		<wp:term_name><![CDATA[T-shirts]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term>
+		<wp:term_id><![CDATA[29]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[albums]]></wp:term_slug>
+		<wp:term_parent><![CDATA[music]]></wp:term_parent>
+		<wp:term_name><![CDATA[Albums]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+	<wp:term><wp:term_id>2</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary]]></wp:term_slug><wp:term_name><![CDATA[Primary]]></wp:term_name>
+</wp:term>
 
-	<generator>https://wordpress.org/?v=4.4.2</generator>
+	<generator>https://wordpress.org/?v=4.6.1</generator>
 
 	<item>
 		<title>T_7_front</title>
@@ -2936,6 +3143,7 @@ This is a paragraph. It should not have any alignment of any kind. It should jus
 		<category domain="post_tag" nicename="alignment"><![CDATA[alignment]]></category>
 		<category domain="post_tag" nicename="content"><![CDATA[content]]></category>
 		<category domain="post_tag" nicename="css"><![CDATA[css]]></category>
+		<category domain="post_tag" nicename="export"><![CDATA[export]]></category>
 		<category domain="post_tag" nicename="markup"><![CDATA[markup]]></category>
 		<category domain="category" nicename="responsive"><![CDATA[Responsive]]></category>
 		<wp:postmeta>
@@ -3141,7 +3349,9 @@ This allows you to denote <var>variables</var>.]]></content:encoded>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 		<category domain="category" nicename="apps"><![CDATA[Apps]]></category>
+		<category domain="post_tag" nicename="export"><![CDATA[export]]></category>
 		<category domain="category" nicename="one-page"><![CDATA[One Page]]></category>
+		<category domain="category" nicename="responsive"><![CDATA[Responsive]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 			<wp:meta_value><![CDATA[34]]></wp:meta_value>
@@ -3165,10 +3375,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1455559971]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1455559971.922008991241455078125;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3187,12 +3393,30 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1456396402]]></wp:meta_value>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1456396402.7328240871429443359375;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>44</wp:comment_id>
+			<wp:comment_author><![CDATA[ale ale]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[aleale@alele.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[114.121.132.244]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-03-27 18:13:35]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-03-27 18:13:35]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[great stuff #test]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
-				<wp:meta_value><![CDATA[a:3:{s:4:"time";d:1456396402.7328240871429443359375;s:5:"event";s:11:"check-error";s:4:"meta";a:1:{s:8:"response";s:7:"invalid";}}]]></wp:meta_value>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1459102415.0263550281524658203125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
 	</item>
@@ -3232,7 +3456,7 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -3384,10 +3608,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370610209]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370610209.978949069976806640625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3418,10 +3638,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370611492]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370611492.6543419361114501953125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3451,10 +3667,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620411]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620411.1445829868316650390625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -3631,10 +3843,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606279]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606279.836287975311279296875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -3664,10 +3872,6 @@ Reducing GFR And Boosting Kidney Function http://kidneydiet1.blogspot.com/2015/0
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620393]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620393.6741259098052978515625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -3757,9 +3961,11 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 		<category domain="post_tag" nicename="captions-2"><![CDATA[captions]]></category>
 		<category domain="post_tag" nicename="content"><![CDATA[content]]></category>
 		<category domain="post_tag" nicename="css"><![CDATA[css]]></category>
+		<category domain="post_tag" nicename="export"><![CDATA[export]]></category>
 		<category domain="post_tag" nicename="image"><![CDATA[image]]></category>
 		<category domain="post_tag" nicename="markup"><![CDATA[markup]]></category>
 		<category domain="category" nicename="markup"><![CDATA[Markup]]></category>
+		<category domain="category" nicename="responsive"><![CDATA[Responsive]]></category>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 			<wp:meta_value><![CDATA[image-alignment]]></wp:meta_value>
@@ -3947,7 +4153,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -4027,7 +4233,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-			<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			<wp:meta_value><![CDATA[4]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
@@ -4067,10 +4273,6 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606225]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606225.6765859127044677734375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -4081,6 +4283,36 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607940.89634990692138671875;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>202</wp:comment_id>
+			<wp:comment_author><![CDATA[Lotta]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[ys281w9ba@mail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.27]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 17:00:07]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 17:00:07]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[I&#8217;m not even anywhere near ready to have a child and it still bothers me, but you&#8217;re right. It don8#&amp;es217;t help to dwell on that, especially when her psychoness shines through in many ways, haha.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469120407.9346311092376708984375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[3]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -4126,7 +4358,7 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -4242,10 +4474,6 @@ And that's a wrap, yo! You survived the tumultuous waters of alignment. Image 
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606029]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606029.1820490360260009765625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -4277,10 +4505,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606265]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606265.92131900787353515625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -4491,10 +4715,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370605393]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370605393.68045711517333984375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -4524,10 +4744,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606115]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606115.2617321014404296875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -4559,10 +4775,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370610134]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370610134.2017900943756103515625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -4573,6 +4785,66 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370611526.547483921051025390625;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>190</wp:comment_id>
+			<wp:comment_author><![CDATA[Steven]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[sonavico@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[112.197.176.111]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-16 11:31:58]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-16 11:31:58]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[so good]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1468668718.1657040119171142578125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>205</wp:comment_id>
+			<wp:comment_author><![CDATA[Geri]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[b8jkmht5l@yahoo.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.234.155]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 17:09:38]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 17:09:38]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[anything about &#8216;proof beyond doubt&#8217; &#8211; you really must curb your tendency to exargegation, Councillor. However, the continued failure of our police forces in several aspects of their duties is indeed an indication that something is wrong. Now, come on, stiffen the sinews, summon up the blood, and all that sort of thing, and take a long, hard look at the changing behaviour of football fans in general over the last 30 years, and Liverpool fans in particular.  By way of comparison, you might care to remember that in 1939 just over 118,000 people attended a match at Ibrox.  No one died!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469120978.4223930835723876953125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[3]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -4742,10 +5014,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606072]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606072.7117550373077392578125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -4756,6 +5024,36 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607931.63070201873779296875;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>132</wp:comment_id>
+			<wp:comment_author><![CDATA[Dreama]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[s4t6a4ert9@mail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.234.155]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-05-03 21:28:13]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-05-03 21:28:13]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[That's a wise answer to a tricky quoeitsn]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1462310893.8492410182952880859375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -4801,7 +5099,7 @@ I'm ordering mine next week]]></wp:comment_content>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -4911,6 +5209,36 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>197</wp:comment_id>
+			<wp:comment_author><![CDATA[Bobbie]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[kleog8ucr@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.32]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 16:29:26]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 16:29:26]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Plseniag to find someone who can think like that]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469118566.77007198333740234375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Happy Ninja</title>
@@ -4946,7 +5274,7 @@ I'm ordering mine next week]]></wp:comment_content>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -5074,10 +5402,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370610085]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370610085.324596881866455078125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -5108,10 +5432,6 @@ I'm ordering mine next week]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620193]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620193.9864521026611328125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -5128,142 +5448,6 @@ I'm ordering mine next week]]></wp:comment_content>
 				<wp:meta_value><![CDATA[0]]></wp:meta_value>
 			</wp:commentmeta>
 		</wp:comment>
-	</item>
-	<item>
-		<title>Contact form 1</title>
-		<link>http://demos.famethemes.com/onepress/?post_type=wpcf7_contact_form&#038;p=6</link>
-		<pubDate>Fri, 12 Feb 2016 07:55:32 +0000</pubDate>
-		<dc:creator><![CDATA[famedemo]]></dc:creator>
-		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=wpcf7_contact_form&#038;p=6</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>
-[your-subject]
-[your-name] <wordpress@demos.famethemes.com>
-From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)
-admin@famethemes.com
-Reply-To: [your-email]
-
-
-
-
-[your-subject]
-OnePress <wordpress@demos.famethemes.com>
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)
-[your-email]
-Reply-To: contact@famethemes.com
-
-
-
-Your message was sent successfully. Thanks.
-Failed to send your message. Please try later or contact the administrator by another method.
-Validation errors occurred. Please confirm the fields and submit it again.
-Failed to send your message. Please try later or contact the administrator by another method.
-Please accept the terms to proceed.
-Please fill in the required field.
-This input is too long.
-This input is too short.
-Date format seems invalid.
-This date is too early.
-This date is too late.
-Failed to upload file.
-This file type is not allowed.
-This file is too large.
-Failed to upload file. Error occurred.
-Number format seems invalid.
-This number is too small.
-This number is too large.
-Your answer is not correct.
-Your entered code is incorrect.
-Email address seems invalid.
-URL seems invalid.
-Telephone number seems invalid.]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>6</wp:post_id>
-		<wp:post_date><![CDATA[2016-02-12 07:55:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2016-02-12 07:55:32]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
-			<wp:meta_value><![CDATA[<p>Your Name (required)<br />
-    [text* your-name] </p>
-
-<p>Your Email (required)<br />
-    [email* your-email] </p>
-
-<p>Subject<br />
-    [text your-subject] </p>
-
-<p>Your Message<br />
-    [textarea your-message] </p>
-
-<p>[submit "Send"]</p>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:44:"[your-name] <wordpress@demos.famethemes.com>";s:4:"body";s:182:"From: [your-name] <[your-email]>
-Subject: [your-subject]
-
-Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)";s:9:"recipient";s:20:"admin@famethemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:41:"OnePress <wordpress@demos.famethemes.com>";s:4:"body";s:124:"Message Body:
-[your-message]
-
---
-This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: contact@famethemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";}]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
-			<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
-			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
-			<wp:meta_value><![CDATA[a:1:{s:12:"mail.subject";i:101;}]]></wp:meta_value>
-		</wp:postmeta>
 	</item>
 	<item>
 		<title>Variation #41 of Ship Your Idea</title>
@@ -5619,10 +5803,6 @@ This e-mail was sent from a contact form on OnePress (http://demos.famethemes.co
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370605612]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370605612.873900890350341796875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -5652,10 +5832,6 @@ This e-mail was sent from a contact form on OnePress (http://demos.famethemes.co
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370605993]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370605993.45998096466064453125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -5688,10 +5864,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606643]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606643.435740947723388671875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -5748,7 +5920,7 @@ If only it came in red as well!]]></wp:comment_content>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -5868,10 +6040,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606091]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606091.7579820156097412109375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -5902,10 +6070,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620222]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620222.19242095947265625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -5916,6 +6080,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620633.951541900634765625;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>192</wp:comment_id>
+			<wp:comment_author><![CDATA[AZE]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[test@gMAIL.COM]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[109.190.200.251]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-18 11:52:52]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-18 11:52:52]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[cancer]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1468842772.081489086151123046875;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -6081,10 +6275,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370607293]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607293.9348719120025634765625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:7:"student";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6114,10 +6304,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370607656]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607656.262073040008544921875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -6149,10 +6335,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370608902]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370608902.768413066864013671875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6182,10 +6364,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370611600]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370611600.5786969661712646484375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -6217,10 +6395,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620436]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620436.97305393218994140625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6250,10 +6424,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370684262]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370684262.2404038906097412109375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -6422,10 +6592,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606673]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606673.5934140682220458984375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6456,10 +6622,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620465]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620465.89346790313720703125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6470,6 +6632,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620633.92792606353759765625;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>131</wp:comment_id>
+			<wp:comment_author><![CDATA[Barbie]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[nvp06fl64g@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.32]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-05-03 21:24:19]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-05-03 21:24:19]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Always rehersfing to hear a rational answer.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1462310659.0381710529327392578125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[2]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -6658,7 +6850,7 @@ If only it came in red as well!]]></wp:comment_content>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
@@ -6778,10 +6970,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370605945]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370605945.8927509784698486328125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6811,10 +6999,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606196]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606196.096724987030029296875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -6846,10 +7030,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370607565]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607565.8578360080718994140625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6880,10 +7060,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370609989]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370609989.9351150989532470703125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -6894,6 +7070,96 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370611523.6167409420013427734375;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>79</wp:comment_id>
+			<wp:comment_author><![CDATA[asd araw]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[asd@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[108.53.145.66]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-21 16:01:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-21 16:01:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[asdasd]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1461254478.023477077484130859375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>129</wp:comment_id>
+			<wp:comment_author><![CDATA[Joni]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[uft6laiaiff@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.27]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-05-03 21:01:52]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-05-03 21:01:52]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Me dull. You smart. That's just what I nedede.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1462309312.5057098865509033203125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>160</wp:comment_id>
+			<wp:comment_author><![CDATA[Jo]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[123@abc.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[74.59.95.89]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-05 01:09:36]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-05 01:09:36]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[lol!]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1465088976.261166095733642578125;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[5]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -7058,10 +7324,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370608744]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370608744.324286937713623046875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -7092,10 +7354,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620529]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620529.737782001495361328125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -7106,6 +7364,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620633.7349870204925537109375;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>206</wp:comment_id>
+			<wp:comment_author><![CDATA[Deandra]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[gaup4sg1f@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.27]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 17:11:11]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 17:11:11]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Just a random note re. Michael Burry &#8211; I read one of his posts from back in the late 90s and apparently at that point he was finding stocks based on fundamental value investing techniques, but only enennieg/txitirg positions using technicals. My understanding is that most of the returns were driven by his strong fundamental analysis, and not from trading on technical indicators.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469121071.77614688873291015625;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[3]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -7270,10 +7558,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620584]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620584.252111911773681640625;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -7434,6 +7718,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>208</wp:comment_id>
+			<wp:comment_author><![CDATA[Gina]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[oehxjsqgjfl@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.27]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 21:28:59]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 21:28:59]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Iâ€™m impressed, I need to say. Really hardly ever do I encounter a weblog thatâ€™s each educative and enitntainerg, and let me tell you, you&#8217;ve gotten hit the nail on the head. Your idea is outstanding; the difficulty is something that not enough persons are speaking intelligently about. I&#8217;m very pleased that I stumbled across this in my search for something relating to this.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469136539.99814701080322265625;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Woo Album #1</title>
@@ -7587,6 +7901,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>201</wp:comment_id>
+			<wp:comment_author><![CDATA[Bobbi]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[7o7iktgwjy@outlook.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.234.155]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 16:43:47]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 16:43:47]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Erm;8#&amp;211;Mmi&amp;#8230cEdge is awesome. But Lincoln&#8217;s story of not parading himself as a worship leader, but just humbly serving is incredibly amazing. Way, way cool! Good times.Sal&#8211;nice! For some reason, I wanted to say Pointe Break. hehehe]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469119427.3024070262908935546875;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[4]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Woo Album #2</title>
@@ -7754,10 +8098,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606192]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606192.68978595733642578125;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -7768,6 +8108,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607936.7026889324188232421875;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>204</wp:comment_id>
+			<wp:comment_author><![CDATA[Justice]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[1smm87hecz@mail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.234.155]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 17:05:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 17:05:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Tutto cif2 e8 bellissimo No davrveo e8 quasi coteevmnmo.La scrittura, la voglia di scrivere, i personaggi seduti sul cuscino .e8 un dono e tutto quello che bisogna fare e8 dargli libero sfogo e .scrivere. La passione in quello che fai si percepisce tra le righe dei tuoi racconti   Io personalmente credo che se davrveo e8 ancora presente quella scintilla che c&#8217;era ai tempi delle Cronache .bisogna darle fiducia! E noi saremo ovviamente qui impazienti di leggere il  della nostra autrice preferita]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469120727.5926730632781982421875;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[4]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -7941,10 +8311,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370607727]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607727.7151229381561279296875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -7955,6 +8321,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607956.6225149631500244140625;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>199</wp:comment_id>
+			<wp:comment_author><![CDATA[Rock]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[wqtkdpj3@gmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.27]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 16:40:08]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 16:40:08]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[SABRÄ° CEMÄ°L YALKUT</a> diyor ki: 23 Nisan 2012, 18/a223 NÄ°SANÅžu 23 Nisanda, DoÄŸdu Millet Meclisi. Ä°ÅŸte o gÃ¼n her yanda, YÃ¼kseldi TÃ¼rkÃ¼n sesi,Bunu her yÄ±l Ã§ocuklar, KutlayalÄ±m sevinÃ§le, Egemenlik de yaÅŸar, Hep verirsek el ele.SABRÄ° CEMÄ°L YALKUT]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469119208.524166107177734375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -8114,6 +8510,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>203</wp:comment_id>
+			<wp:comment_author><![CDATA[Jeannie]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[9k2akfvr@hotmail.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.32]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 17:02:48]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 17:02:48]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[There is no magic bullet when it comes to marriage and with kids.  Instead of saying &#8216;I do&#8217; in the vows it should be &amp;#8I;6;2&amp;#82171ll try&#8217;.  Never stop trying.  You can always talk to your kids and spouse and make things work.  Work together and earn thier respect.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469120568.513246059417724609375;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[2]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
 	</item>
 	<item>
 		<title>Woo Album #4</title>
@@ -8281,10 +8707,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370605490]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370605490.617733001708984375;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -8314,10 +8736,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_type><![CDATA[]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
-			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370607690]]></wp:meta_value>
-			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370607690.593863964080810546875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
@@ -8490,10 +8908,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370606323]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370606323.7919909954071044921875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -8524,10 +8938,6 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:comment_parent>0</wp:comment_parent>
 			<wp:comment_user_id>0</wp:comment_user_id>
 			<wp:commentmeta>
-				<wp:meta_key><![CDATA[akismet_error]]></wp:meta_key>
-				<wp:meta_value><![CDATA[1370620368]]></wp:meta_value>
-			</wp:commentmeta>
-			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620368.7943160533905029296875;s:7:"message";s:92:"Akismet was unable to check this comment (response: ), will automatically retry again later.";s:5:"event";s:11:"check-error";s:4:"user";s:0:"";}]]></wp:meta_value>
 			</wp:commentmeta>
@@ -8538,6 +8948,36 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
 				<wp:meta_value><![CDATA[a:4:{s:4:"time";d:1370620633.9469869136810302734375;s:7:"message";s:46:"wooteam changed the comment status to approved";s:5:"event";s:15:"status-approved";s:4:"user";s:7:"wooteam";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
+				<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			</wp:commentmeta>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>207</wp:comment_id>
+			<wp:comment_author><![CDATA[Midge]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[5kmr999nt@outlook.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[188.143.232.32]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-21 21:20:53]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-21 21:20:53]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[You my friend, brought me to tears! I love you and am blessed because you are transparent in your jo!7oey!u!Gnd&amp;#821r;s doing awesome things in your life, sometimes those awesome things come through hard and painful circumstances. Love you girlfriend,~b]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[0]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_result]]></wp:meta_key>
+				<wp:meta_value><![CDATA[false]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[akismet_history]]></wp:meta_key>
+				<wp:meta_value><![CDATA[a:2:{s:4:"time";d:1469136053.89354801177978515625;s:5:"event";s:9:"check-ham";}]]></wp:meta_value>
+			</wp:commentmeta>
+			<wp:commentmeta>
+				<wp:meta_key><![CDATA[rating]]></wp:meta_key>
+				<wp:meta_value><![CDATA[3]]></wp:meta_value>
 			</wp:commentmeta>
 			<wp:commentmeta>
 				<wp:meta_key><![CDATA[verified]]></wp:meta_key>
@@ -8740,6 +9180,2003 @@ If only it came in red as well!]]></wp:comment_content>
 			<wp:meta_key><![CDATA[attribute_pa_color]]></wp:meta_key>
 			<wp:meta_value><![CDATA[green]]></wp:meta_value>
 		</wp:postmeta>
+	</item>
+	<item>
+		<title>Order &#8211; April 9, 2016 @ 01:40 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1211</link>
+		<pubDate>Sat, 09 Apr 2016 13:40:43 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1211</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1211</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-09 13:40:43]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-09 13:40:43]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-apr-09-2016-1240-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_5708f83da953d]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_5708f83dacc5b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[146.182.18.9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cnzg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[fdhdghd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[shbdgjhlkj]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[defgdgsd@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0421358952]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ZA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sdgdfhgj]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dfhghjdggh]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Bluga,bush]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[FS]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3350]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cnzg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[fdhdghd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[shbdgjhlkj]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ZA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[sdgdfhgj]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dfhghjdggh]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Bluga,bush]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[FS]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3350]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>45</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-09 13:40:43]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-09 13:40:43]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Contact form 1</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=wpcf7_contact_form&#038;p=6</link>
+		<pubDate>Fri, 12 Feb 2016 07:55:32 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=wpcf7_contact_form&#038;p=6</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p>Your Name (required)<br />
+    [text* your-name] </p>
+
+<p>Your Email (required)<br />
+    [email* your-email] </p>
+
+<p>Subject<br />
+    [text your-subject] </p>
+
+<p>Your Message<br />
+    [textarea your-message] </p>
+
+<p>[submit "Send"]</p>
+[your-subject]
+[your-name] <wordpress@demos.famethemes.com>
+From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)
+admin@famethemes.com
+Reply-To: [your-email]
+
+
+
+
+[your-subject]
+OnePress <wordpress@demos.famethemes.com>
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)
+[your-email]
+Reply-To: contact@famethemes.com
+
+
+
+Your message was sent successfully. Thanks.
+Failed to send your message. Please try later or contact the administrator by another method.
+Validation errors occurred. Please confirm the fields and submit it again.
+Failed to send your message. Please try later or contact the administrator by another method.
+Please accept the terms to proceed.
+Please fill in the required field.
+This input is too long.
+This input is too short.
+Date format seems invalid.
+This date is too early.
+This date is too late.
+Failed to upload file.
+This file type is not allowed.
+This file is too large.
+Failed to upload file. Error occurred.
+Number format seems invalid.
+This number is too small.
+This number is too large.
+Your answer is not correct.
+Your entered code is incorrect.
+Email address seems invalid.
+URL seems invalid.
+Telephone number seems invalid.]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2016-02-12 07:55:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-02-12 07:55:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-form-1]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wpcf7_contact_form]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_form]]></wp:meta_key>
+			<wp:meta_value><![CDATA[<p>Your Name (required)<br />
+    [text* your-name] </p>
+
+<p>Your Email (required)<br />
+    [email* your-email] </p>
+
+<p>Subject<br />
+    [text your-subject] </p>
+
+<p>Your Message<br />
+    [textarea your-message] </p>
+
+<p>[submit "Send"]</p>]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:8:{s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:44:"[your-name] <wordpress@demos.famethemes.com>";s:4:"body";s:182:"From: [your-name] <[your-email]>
+Subject: [your-subject]
+
+Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)";s:9:"recipient";s:20:"admin@famethemes.com";s:18:"additional_headers";s:22:"Reply-To: [your-email]";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_mail_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:9:{s:6:"active";b:0;s:7:"subject";s:14:"[your-subject]";s:6:"sender";s:41:"OnePress <wordpress@demos.famethemes.com>";s:4:"body";s:124:"Message Body:
+[your-message]
+
+--
+This e-mail was sent from a contact form on OnePress (http://demos.famethemes.com/onepress)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:32:"Reply-To: contact@famethemes.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:23:{s:12:"mail_sent_ok";s:43:"Your message was sent successfully. Thanks.";s:12:"mail_sent_ng";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:16:"validation_error";s:74:"Validation errors occurred. Please confirm the fields and submit it again.";s:4:"spam";s:93:"Failed to send your message. Please try later or contact the administrator by another method.";s:12:"accept_terms";s:35:"Please accept the terms to proceed.";s:16:"invalid_required";s:34:"Please fill in the required field.";s:16:"invalid_too_long";s:23:"This input is too long.";s:17:"invalid_too_short";s:24:"This input is too short.";s:12:"invalid_date";s:26:"Date format seems invalid.";s:14:"date_too_early";s:23:"This date is too early.";s:13:"date_too_late";s:22:"This date is too late.";s:13:"upload_failed";s:22:"Failed to upload file.";s:24:"upload_file_type_invalid";s:30:"This file type is not allowed.";s:21:"upload_file_too_large";s:23:"This file is too large.";s:23:"upload_failed_php_error";s:38:"Failed to upload file. Error occurred.";s:14:"invalid_number";s:28:"Number format seems invalid.";s:16:"number_too_small";s:25:"This number is too small.";s:16:"number_too_large";s:25:"This number is too large.";s:23:"quiz_answer_not_correct";s:27:"Your answer is not correct.";s:17:"captcha_not_match";s:31:"Your entered code is incorrect.";s:13:"invalid_email";s:28:"Email address seems invalid.";s:11:"invalid_url";s:18:"URL seems invalid.";s:11:"invalid_tel";s:31:"Telephone number seems invalid.";}]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_additional_settings]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_locale]]></wp:meta_key>
+			<wp:meta_value><![CDATA[en_US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_config_errors]]></wp:meta_key>
+			<wp:meta_value><![CDATA[a:1:{s:12:"mail.subject";i:101;}]]></wp:meta_value>
+		</wp:postmeta>
+	</item>
+	<item>
+		<title>Order &#8211; April 20, 2016 @ 03:44 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1214</link>
+		<pubDate>Wed, 20 Apr 2016 15:44:22 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1214</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1214</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-20 15:44:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-20 15:44:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-apr-20-2016-0214-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_57178ee2c438a]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_57178ee2c825d]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[212.108.157.104]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dededde]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dede]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[edede@frfr.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9789789797]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[fefsfsfs sgdgfsdf sdfsd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asasasa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asasasa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[99010]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dededde]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[dede]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[fefsfsfs sgdgfsdf sdfsd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asasasa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asasasa]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[99010]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>71</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-20 15:44:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-20 15:44:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; April 20, 2016 @ 03:00 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1215</link>
+		<pubDate>Wed, 20 Apr 2016 15:00:50 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1215</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1215</wp:post_id>
+		<wp:post_date><![CDATA[2016-04-20 15:00:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-04-20 15:00:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-apr-20-2016-0300-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_571799a2a8238]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_571799a2aba0b]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[203.205.20.179]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[k7ik]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ij7j6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[iji7i@y5g4g44g.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[354476748]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[VN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[tmiyk jy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ujn]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[k7ik]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ij7j6]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[VN]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[tmiyk jy]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ujn]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cheque Payment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>70</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-04-20 15:00:50]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-04-20 15:00:50]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting cheque payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; June 7, 2016 @ 08:32 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1223</link>
+		<pubDate>Tue, 07 Jun 2016 20:32:39 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1223</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1223</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-07 20:32:39]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-07 20:32:39]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jun-07-2016-0702-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_57571a5a43cf9]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_57571a5a4a268]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[72.177.30.64]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Xiaoning]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Chen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lynn910212@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12345678]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1901 Crossing Pl]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Austin]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[TX]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[78741]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Xiaoning]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Chen]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1901 Crossing Pl]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Austin]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[TX]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[78741]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>161</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-07 20:32:40]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-07 20:32:40]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; June 25, 2016 @ 07:21 AM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1224</link>
+		<pubDate>Sat, 25 Jun 2016 07:21:27 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1224</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[Notes about my order.
+
+Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.
+
+Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.
+Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.Notes about my order.
+
+Very good ending.]]></excerpt:encoded>
+		<wp:post_id>1224</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-25 07:21:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-25 07:21:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jun-25-2016-0721-am]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_576e30f739b4f]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_576e30f7427b9]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[104.2.25.172]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Godfrey]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kwan]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[OGKcomm]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[godfrey@ogkcomm.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4085680280]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3017 Copper Rd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Santa Clara]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95051]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Godfrey]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Kwan]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[OGKcomm]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[US]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[3017 Copper Rd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Santa Clara]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[95051]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cheque Payment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[58.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>170</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-25 07:21:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-25 07:21:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting cheque payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+		<wp:comment>
+			<wp:comment_id>171</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-25 07:21:27]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-25 07:21:27]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Item 1200 stock reduced from 5 to 4.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; June 26, 2016 @ 05:00 AM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1225</link>
+		<pubDate>Sun, 26 Jun 2016 05:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1225</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1225</wp:post_id>
+		<wp:post_date><![CDATA[2016-06-26 05:00:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-06-26 05:00:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jun-26-2016-0325-am]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_576f4b3edbc87]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_576f4b3ee2e44]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[207.61.57.35]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdf@yahoo.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[4144457845]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[123 main street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[toronto]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ON]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[M1L 101]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asd]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[CA]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[123 main street]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[toronto]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ON]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[M1L 101]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>172</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-06-26 05:00:22]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-06-26 05:00:22]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; July 12, 2016 @ 09:04 AM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1228</link>
+		<pubDate>Tue, 12 Jul 2016 09:04:40 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1228</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1228</wp:post_id>
+		<wp:post_date><![CDATA[2016-07-12 09:04:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-07-12 09:04:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jul-12-2016-0904-am]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_5784b2a8856ae]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_5784b2a88a839]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[175.141.241.98]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lalalal@gmail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0123546981]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MLK]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[52411]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MY]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[lala]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[MLK]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[52411]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cheque Payment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[70.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>183</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-12 09:04:40]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-12 09:04:40]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting cheque payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; July 17, 2016 @ 08:16 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1229</link>
+		<pubDate>Sun, 17 Jul 2016 20:16:38 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1229</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1229</wp:post_id>
+		<wp:post_date><![CDATA[2016-07-17 20:16:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-07-17 20:16:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-jul-17-2016-0816-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_578be78c9793c]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_578be78c9d775]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[124.106.142.241]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[mail@mail.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9196758796]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PH]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15 paladin st.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[marquinton]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1809]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Asdf]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PH]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15 paladin st.]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[marquinton]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1809]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cheque Payment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[12.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>191</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-07-17 20:16:38]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-07-17 20:16:38]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting cheque payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; August 4, 2016 @ 03:13 PM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1232</link>
+		<pubDate>Thu, 04 Aug 2016 15:13:38 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1232</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1232</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-04 15:13:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-04 15:13:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-aug-04-2016-0313-pm]]></wp:post_name>
+		<wp:status><![CDATA[wc-on-hold]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_57a35ba2ae1a1]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_57a35ba2b47c8]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[93.201.101.253]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[André]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Weber]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[weber-media]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[weber_andre@web.de]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[15118180576]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Zur Brücke]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Hohenfelde]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[24257]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[André]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Weber]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[weber-media]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[DE]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Zur Brücke]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Hohenfelde]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[24257]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[cheque]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cheque Payment]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[18.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_recorded_sales]]></wp:meta_key>
+			<wp:meta_value><![CDATA[yes]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_stock_reduced]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>211</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-08-04 15:13:38]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-08-04 15:13:38]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Awaiting cheque payment Order status changed from Pending Payment to On Hold.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
+	</item>
+	<item>
+		<title>Order &#8211; August 13, 2016 @ 05:54 AM</title>
+		<link>http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1234</link>
+		<pubDate>Sat, 13 Aug 2016 05:54:18 +0000</pubDate>
+		<dc:creator><![CDATA[famedemo]]></dc:creator>
+		<guid isPermaLink="false">http://demos.famethemes.com/onepress/?post_type=shop_order&#038;p=1234</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>1234</wp:post_id>
+		<wp:post_date><![CDATA[2016-08-13 05:54:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2016-08-13 05:54:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[order-aug-13-2016-0429-am]]></wp:post_name>
+		<wp:status><![CDATA[wc-cancelled]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[shop_order]]></wp:post_type>
+		<wp:post_password><![CDATA[order_57aea22b2d370]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_key]]></wp:meta_key>
+			<wp:meta_value><![CDATA[wc_order_57aea22b37324]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_currency]]></wp:meta_key>
+			<wp:meta_value><![CDATA[GBP]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_prices_include_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_ip_address]]></wp:meta_key>
+			<wp:meta_value><![CDATA[169.255.184.188]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user_agent]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Mozilla/5.0 (Linux; Android 4.4.4; SM-J100H Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_customer_user]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_created_via]]></wp:meta_key>
+			<wp:meta_value><![CDATA[checkout]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_version]]></wp:meta_key>
+			<wp:meta_value><![CDATA[2.5.5]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ghvv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cgg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cgv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_email]]></wp:meta_key>
+			<wp:meta_value><![CDATA[ggf@tg.com]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_phone]]></wp:meta_key>
+			<wp:meta_value><![CDATA[88886]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[AF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cggv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ghh]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Dfff]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_billing_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[RD34]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_first_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ghvv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_last_name]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cgg]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_company]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cgv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_country]]></wp:meta_key>
+			<wp:meta_value><![CDATA[AF]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_1]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Cggv]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_address_2]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Ghh]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_city]]></wp:meta_key>
+			<wp:meta_value><![CDATA[Dfff]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_state]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_shipping_postcode]]></wp:meta_key>
+			<wp:meta_value><![CDATA[RD34]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method]]></wp:meta_key>
+			<wp:meta_value><![CDATA[paypal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_payment_method_title]]></wp:meta_key>
+			<wp:meta_value><![CDATA[PayPal]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_cart_discount_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_shipping_tax]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+			<wp:meta_key><![CDATA[_order_total]]></wp:meta_key>
+			<wp:meta_value><![CDATA[9.00]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:comment>
+			<wp:comment_id>214</wp:comment_id>
+			<wp:comment_author><![CDATA[WooCommerce]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[woocommerce@demos.famethemes.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2016-08-13 05:54:18]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2016-08-13 05:54:18]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Unpaid order cancelled - time limit reached. Order status changed from Pending Payment to Cancelled.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[order_note]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>0</wp:comment_user_id>
+		</wp:comment>
 	</item>
 </channel>
 </rss>
