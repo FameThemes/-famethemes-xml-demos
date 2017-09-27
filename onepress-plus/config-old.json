@@ -1,5 +1,5 @@
 {
-    "home_url": "https:\/\/demos.famethemes.com\/onepress-plus\/",
+    "home_url": "http:\/\/demos.famethemes.com\/onepress-plus\/",
     "menus": {
         "primary": 2
     },
@@ -29,7 +29,7 @@
         "onepress_team_members": [
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team5.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team5.jpg",
                     "id": 11
                 },
                 "link": "",
@@ -41,7 +41,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team3.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team3.jpg",
                     "id": 9
                 },
                 "link": "",
@@ -53,7 +53,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team2.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team2.jpg",
                     "id": 8
                 },
                 "link": "",
@@ -65,7 +65,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team6.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team6.jpg",
                     "id": 12
                 },
                 "link": "",
@@ -77,7 +77,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team8.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team8.jpg",
                     "id": 14
                 },
                 "link": "",
@@ -89,7 +89,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team1.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team1.jpg",
                     "id": 7
                 },
                 "link": "",
@@ -101,7 +101,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team7.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team7.jpg",
                     "id": 13
                 },
                 "link": "",
@@ -113,7 +113,7 @@
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team4.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/team4.jpg",
                     "id": 10
                 },
                 "link": "",
@@ -127,19 +127,19 @@
         "onepress_hero_images": [
             {
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2017\/03\/Spacious.jpg",
-                    "id": 1289
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/04\/Major-Tom.jpg",
+                    "id": 1249
                 }
             },
             {
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/12\/space.jpg",
-                    "id": 1277
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/blog1.jpg",
+                    "id": 36
                 }
             }
         ],
-        "onepress_hero_overlay_color": "rgba(0,0,0,0.3)",
-        "onepress_site_image_logo": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/logo.png",
+        "onepress_hero_overlay_color": "rgba(0,0,0,0)",
+        "onepress_site_image_logo": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/logo.png",
         "onepress_about_boxes": [
             {
                 "content_page": "17",
@@ -222,7 +222,7 @@
         "nav_menu_locations": {
             "primary": 2
         },
-        "onepress_news_more_link": "https:\/\/demos.famethemes.com\/onepress-plus\/news",
+        "onepress_news_more_link": "http:\/\/demos.famethemes.com\/onepress-plus\/news",
         "onepress_cta_btn_link": "#",
         "onepress_section_order_styling": [
             {
@@ -334,7 +334,7 @@
                 "bg_type": "image",
                 "bg_color": "",
                 "bg_image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/hero5.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/hero5.jpg",
                     "id": ""
                 },
                 "enable_parallax": 1,
@@ -532,7 +532,7 @@
                 "bg_type": "image",
                 "bg_color": "",
                 "bg_image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/hero4.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/uploads\/sites\/18\/2016\/02\/hero4.jpg",
                     "id": 15
                 },
                 "enable_parallax": 1,
@@ -721,9 +721,9 @@
                 "enable_parallax": ""
             }
         ],
-        "onepress_hero_video_mp4": "1291",
-        "onepress_hero_video_webm": "1292",
-        "onepress_hero_fullscreen": 0,
+        "onepress_hero_video_mp4": "1247",
+        "onepress_hero_video_webm": "1250",
+        "onepress_hero_fullscreen": 1,
         "onepress_hero_pdtop": "12",
         "onepress_hero_pdbotom": "12",
         "onepress_hero_parallax": 0,
@@ -807,7 +807,7 @@
             }
         ],
         "onepress_about_desc": "We provide <i>creative solutions<\/i> to clients around the world,<br>\ncreating things that get attention and meaningful.",
-        "onepress_hero_video_ogv": "",
+        "onepress_hero_video_ogv": "1248",
         "onepress_hero_mobile_img": 1,
         "onepress_clients_subtitle": "",
         "custom_logo": 16,
@@ -817,7 +817,7 @@
             {
                 "title": "Hostingco",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_1.png",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_1.png",
                     "id": ""
                 },
                 "link": ""
@@ -825,7 +825,7 @@
             {
                 "title": "Religion",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_2.png",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_2.png",
                     "id": ""
                 },
                 "link": ""
@@ -833,7 +833,7 @@
             {
                 "title": "Viento",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_3.png",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_3.png",
                     "id": ""
                 },
                 "link": ""
@@ -841,7 +841,7 @@
             {
                 "title": "Naturefirst",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_4.png",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_4.png",
                     "id": ""
                 },
                 "link": ""
@@ -849,7 +849,7 @@
             {
                 "title": "Imagine",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_5.png",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/plugins\/onepress-plus\/assets\/images\/client_logo_5.png",
                     "id": ""
                 },
                 "link": ""
@@ -860,7 +860,7 @@
                 "title": "Praesent placerat",
                 "name": "Alexander Rios",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_1.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_1.jpg",
                     "id": ""
                 },
                 "subtitle": "Founder &amp; CEO",
@@ -871,7 +871,7 @@
                 "title": "Cras iaculis",
                 "name": "Alexander Max",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_2.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_2.jpg",
                     "id": ""
                 },
                 "subtitle": "Founder &amp; CEO",
@@ -882,7 +882,7 @@
                 "title": "Fusce lobortis",
                 "name": "Peter Mendez",
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_3.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress-plus\/wp-content\/themes\/onepress\/assets\/images\/testimonial_3.jpg",
                     "id": ""
                 },
                 "subtitle": "Example Company",
@@ -944,14 +944,14 @@
                 "link": "#Instagram"
             }
         ],
+        "onepress_gallery_disable": 0,
         "onepress_gallery_source": "instagram",
         "onepress_gallery_layout": "full-width",
         "onepress_gallery_display": "carousel",
         "onepress_g_spacing": "2",
         "onepress_g_col": "5",
         "onepress_gallery_source_instagram": "yoyokulala",
-        "onepress_gallery_desc": "NEW: Gallery section support advanced layouts: Grid, Slider, Carousel, Masonry, Justified,\n\nImages source: WordPress Gallery, Facebook Album, Flickr, Instagram.<br>",
-        "custom_css_post_id": -1
+        "onepress_gallery_desc": "NEW: Gallery section support advanced layouts: Grid, Slider, Carousel, Masonry, Justified,\n\nImages source: WordPress Gallery, Facebook Album, Flickr, Instagram.<br>"
     },
     "widgets": {
         "sidebar-1": {
@@ -981,39 +981,6 @@
                 "title": ""
             }
         }
-    },
-    "widgets_config": {
-        "pages": [],
-        "calendar": [],
-        "archives": [],
-        "media_audio": [],
-        "media_image": [],
-        "media_video": [],
-        "meta": [],
-        "search": [],
-        "text": [],
-        "categories": [],
-        "recent-posts": [],
-        "recent-comments": [],
-        "rss": [],
-        "tag_cloud": [],
-        "nav_menu": [],
-        "custom_html": [],
-        "wpe_powered_by_widget": [],
-        "akismet_widget": [],
-        "woocommerce_widget_cart": [],
-        "woocommerce_layered_nav_filters": [],
-        "woocommerce_layered_nav": [],
-        "woocommerce_price_filter": [],
-        "woocommerce_product_categories": [],
-        "woocommerce_product_search": [],
-        "woocommerce_product_tag_cloud": [],
-        "woocommerce_products": [],
-        "woocommerce_rating_filter": [],
-        "woocommerce_recent_reviews": [],
-        "woocommerce_recently_viewed_products": [],
-        "woocommerce_top_rated_products": [],
-        "bcn_widget": []
     },
     "customizer_keys": {
         "onepress_social_profiles": [],

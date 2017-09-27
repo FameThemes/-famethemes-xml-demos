@@ -1,5 +1,5 @@
 {
-    "home_url": "https:\/\/demos.famethemes.com\/onepress\/",
+    "home_url": "http:\/\/demos.famethemes.com\/onepress\/",
     "menus": {
         "primary": 2
     },
@@ -29,28 +29,28 @@
         "onepress_team_members": [
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team5.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team5.jpg",
                     "id": 11
                 },
                 "link": ""
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team3.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team3.jpg",
                     "id": 9
                 },
                 "link": ""
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team2.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team2.jpg",
                     "id": 8
                 },
                 "link": ""
             },
             {
                 "user_id": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team6.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/team6.jpg",
                     "id": 12
                 },
                 "link": ""
@@ -59,19 +59,19 @@
         "onepress_hero_images": [
             {
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/blog1.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/blog1.jpg",
                     "id": 36
                 }
             },
             {
                 "image": {
-                    "url": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/business1.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/business1.jpg",
                     "id": 1179
                 }
             }
         ],
         "onepress_hero_overlay_color": "rgba(0,0,0,0.3)",
-        "onepress_site_image_logo": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/logo.png",
+        "onepress_site_image_logo": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/logo.png",
         "onepress_about_boxes": [
             {
                 "content_page": "17",
@@ -129,10 +129,10 @@
         "nav_menu_locations": {
             "primary": 2
         },
-        "onepress_news_more_link": "https:\/\/demos.famethemes.com\/onepress\/news",
+        "onepress_news_more_link": "http:\/\/demos.famethemes.com\/onepress\/news",
         "onepress_videolightbox_title": "Parallax Effect - <strong>Perfected<\/strong>",
         "onepress_videolightbox_url": "https:\/\/www.youtube.com\/watch?v=yUCFRL43Zm4",
-        "onepress_videolightbox_image": "https:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/blog1.jpg",
+        "onepress_videolightbox_image": "http:\/\/demos.famethemes.com\/onepress\/wp-content\/uploads\/sites\/17\/2016\/02\/blog1.jpg",
         "onepress_counter_title": "",
         "onepress_counter_subtitle": "Some Fun Facts about our agency?",
         "onepress_counter_boxes": [
@@ -219,9 +219,7 @@
         "onepress_gallery_layout": "full-width",
         "onepress_gallery_display": "masonry",
         "onepress_g_spacing": "2",
-        "onepress_g_col": "5",
-        "custom_css_post_id": -1,
-        "onepress_hero_parallax": 0
+        "onepress_g_col": "5"
     },
     "widgets": {
         "sidebar-1": {
@@ -251,39 +249,6 @@
                 "title": ""
             }
         }
-    },
-    "widgets_config": {
-        "pages": [],
-        "calendar": [],
-        "archives": [],
-        "media_audio": [],
-        "media_image": [],
-        "media_video": [],
-        "meta": [],
-        "search": [],
-        "text": [],
-        "categories": [],
-        "recent-posts": [],
-        "recent-comments": [],
-        "rss": [],
-        "tag_cloud": [],
-        "nav_menu": [],
-        "custom_html": [],
-        "wpe_powered_by_widget": [],
-        "akismet_widget": [],
-        "woocommerce_widget_cart": [],
-        "woocommerce_layered_nav_filters": [],
-        "woocommerce_layered_nav": [],
-        "woocommerce_price_filter": [],
-        "woocommerce_product_categories": [],
-        "woocommerce_product_search": [],
-        "woocommerce_product_tag_cloud": [],
-        "woocommerce_products": [],
-        "woocommerce_rating_filter": [],
-        "woocommerce_recent_reviews": [],
-        "woocommerce_recently_viewed_products": [],
-        "woocommerce_top_rated_products": [],
-        "bcn_widget": []
     },
     "customizer_keys": {
         "onepress_social_profiles": [],
