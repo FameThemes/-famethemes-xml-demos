@@ -1,5 +1,5 @@
 {
-    "home_url": "http:\/\/demos.famethemes.com\/screenr-plus\/",
+    "home_url": "http:\/\/demos.famethemes.com\/screenr\/",
     "menus": {
         "primary": 2
     },
@@ -14,83 +14,21 @@
         "0": false,
         "slider_items": [
             {
-                "layout": "layout_1",
-                "content_layout_1": "<h1><strong>A Brighter Future, Together<\/strong><\/h1>\r\n                                                    Responsive touch enable slider with video background slide.\r\n\r\n<a class=\"btn btn-lg btn-theme-primary\" href=\"#features\">Get Started<\/a><a class=\"btn btn-lg btn-secondary-outline\" href=\"#contact\">Contact Now<\/a>",
-                "content_layout_2": "",
-                "bg_type": "video",
-                "media": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/Mock-up.jpg",
-                    "id": 1183
-                },
-                "video_mp4": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/Mock-up.mp4",
-                    "id": 1184
-                },
-                "video_ogv": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/Mock-up.ogv",
-                    "id": 1185
-                },
-                "video_webm": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/Mock-up.webm",
-                    "id": 1186
-                },
-                "position": "center"
-            },
-            {
-                "layout": "layout_1",
                 "content_layout_1": "<h1><strong>Your business, your website<\/strong><\/h1>\r\n\r\nScreenr is a multiuse fullscreen WordPress theme.\r\n\r\n<a class=\"btn btn-lg btn-theme-primary\" href=\"#features\">Get Started<\/a> <a class=\"btn btn-lg btn-secondary-outline\" href=\"#contact\">Contact Now<\/a>",
-                "content_layout_2": "",
-                "bg_type": "image",
                 "media": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/hero.jpg",
+                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/hero.jpg",
                     "id": 7
                 },
-                "video_mp4": {
-                    "url": "",
-                    "id": ""
-                },
-                "video_ogv": {
-                    "url": "",
-                    "id": ""
-                },
-                "video_webm": {
-                    "url": "",
-                    "id": ""
-                },
                 "position": "center"
-            },
-            {
-                "layout": "layout_1",
-                "content_layout_1": "<h1><strong>Ready To Stand Out?<\/strong><\/h1>\r\n                                                    Screenr was built with a high attention to details both in design &amp; code, <br>what real creative freedom feels like in a theme.\r\n\r\n<a class=\"btn btn-lg btn-secondary-outline\" href=\"#features\">Discover Now<\/a>",
-                "content_layout_2": "",
-                "bg_type": "image",
-                "media": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/night-vintage-music-bokeh.jpg",
-                    "id": 10
-                },
-                "video_mp4": {
-                    "url": "",
-                    "id": ""
-                },
-                "video_ogv": {
-                    "url": "",
-                    "id": ""
-                },
-                "video_webm": {
-                    "url": "",
-                    "id": ""
-                },
-                "position": "left"
             }
         ],
         "slider_fullscreen": 1,
         "screenr_hide_tagline": 1,
-        "screenr_hide_sitetitle": 0,
         "about_page_id": "8",
         "about_page_content_type": "content",
         "videolightbox_title": "Parallax &amp; Video Lightbox - Perfected",
         "videolightbox_video": "https:\/\/www.youtube.com\/watch?v=yUCFRL43Zm4",
-        "videolightbox_parallax_img": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/uploads\/sites\/26\/2016\/09\/pexels-photo.jpg",
+        "videolightbox_parallax_img": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/pexels-photo.jpg",
         "videolightbox_overlay": "rgba(2,2,2,0.57)",
         "features_items": [
             {
@@ -237,55 +175,6 @@
         ],
         "news_title": "Latest News",
         "footer_layout": "4",
-        "slider_overlay_color": "rgba(0,0,0,0.64)",
-        "team_members": [
-            {
-                "title": "Alexander Rios",
-                "avatar": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/plugins\/screenr-plus\/assets\/images\/team1.jpg",
-                    "id": ""
-                },
-                "position": "Founder &amp; CEO",
-                "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit aenean commodo ligula.",
-                "link": "#",
-                "url": "#",
-                "facebook": "#",
-                "twitter": "#",
-                "google_plus": "#",
-                "linkedin": "#"
-            },
-            {
-                "title": "Sean Weaver",
-                "avatar": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/plugins\/screenr-plus\/assets\/images\/team2.jpg",
-                    "id": ""
-                },
-                "position": "Senior Designer",
-                "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit aenean commodo ligula.",
-                "link": "#",
-                "url": "#",
-                "facebook": "#",
-                "twitter": "#",
-                "google_plus": "#",
-                "linkedin": "#"
-            },
-            {
-                "title": "George Wells",
-                "avatar": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr-plus\/wp-content\/plugins\/screenr-plus\/assets\/images\/team3.jpg",
-                    "id": ""
-                },
-                "position": "User Experience",
-                "desc": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit aenean commodo ligula.",
-                "link": "#",
-                "url": "#",
-                "facebook": "#",
-                "twitter": "#",
-                "google_plus": "#",
-                "linkedin": "#"
-            }
-        ],
-        "portfolios_ajax": 1,
         "header_layout": "transparent"
     },
     "widgets": {
@@ -346,6 +235,12 @@
         }
     },
     "customizer_keys": {
+        "slider_items": [
+            {
+                "key": "media",
+                "type": "media"
+            }
+        ],
         "features_items": [
             {
                 "key": "page_id",
@@ -365,55 +260,6 @@
             }
         ],
         "counter_items": [],
-        "contact_items": [],
-        "sections_order_styling": [
-            {
-                "key": "bg_image",
-                "type": "media"
-            },
-            {
-                "key": "bg_video",
-                "type": "media"
-            },
-            {
-                "key": "bg_video_webm",
-                "type": "media"
-            },
-            {
-                "key": "bg_video_ogv",
-                "type": "media"
-            }
-        ],
-        "slider_items": [
-            {
-                "key": "media",
-                "type": "media"
-            },
-            {
-                "key": "video_mp4",
-                "type": "media"
-            },
-            {
-                "key": "video_ogv",
-                "type": "media"
-            },
-            {
-                "key": "video_webm",
-                "type": "media"
-            }
-        ],
-        "testimonials_items": [
-            {
-                "key": "image",
-                "type": "media"
-            }
-        ],
-        "pricing_plans": [],
-        "team_members": [
-            {
-                "key": "avatar",
-                "type": "media"
-            }
-        ]
+        "contact_items": []
     }
 }

@@ -1,5 +1,5 @@
 {
-    "home_url": "http:\/\/demos.famethemes.com\/screenr\/",
+    "home_url": "https:\/\/demos.famethemes.com\/screenr\/",
     "menus": {
         "primary": 2
     },
@@ -16,7 +16,7 @@
             {
                 "content_layout_1": "<h1><strong>Your business, your website<\/strong><\/h1>\r\n\r\nScreenr is a multiuse fullscreen WordPress theme.\r\n\r\n<a class=\"btn btn-lg btn-theme-primary\" href=\"#features\">Get Started<\/a> <a class=\"btn btn-lg btn-secondary-outline\" href=\"#contact\">Contact Now<\/a>",
                 "media": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/hero.jpg",
+                    "url": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/hero.jpg",
                     "id": 7
                 },
                 "position": "center"
@@ -24,11 +24,12 @@
         ],
         "slider_fullscreen": 1,
         "screenr_hide_tagline": 1,
+        "screenr_hide_sitetitle": 0,
         "about_page_id": "8",
         "about_page_content_type": "content",
         "videolightbox_title": "Parallax &amp; Video Lightbox - Perfected",
         "videolightbox_video": "https:\/\/www.youtube.com\/watch?v=yUCFRL43Zm4",
-        "videolightbox_parallax_img": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/pexels-photo.jpg",
+        "videolightbox_parallax_img": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/pexels-photo.jpg",
         "videolightbox_overlay": "rgba(2,2,2,0.57)",
         "features_items": [
             {
@@ -93,7 +94,7 @@
             {
                 "title": "Hosting Co",
                 "image": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_1.png",
+                    "url": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_1.png",
                     "id": 23
                 },
                 "url": "#"
@@ -101,7 +102,7 @@
             {
                 "title": "Religion",
                 "image": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_2.png",
+                    "url": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_2.png",
                     "id": 24
                 },
                 "url": "#"
@@ -109,7 +110,7 @@
             {
                 "title": "Udemy",
                 "image": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_7.png",
+                    "url": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_7.png",
                     "id": 29
                 },
                 "url": "#"
@@ -117,7 +118,7 @@
             {
                 "title": "NatureFirst",
                 "image": {
-                    "url": "http:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_4.png",
+                    "url": "https:\/\/demos.famethemes.com\/screenr\/wp-content\/uploads\/sites\/25\/2016\/09\/client_logo_4.png",
                     "id": 26
                 },
                 "url": "#"
@@ -175,7 +176,8 @@
         ],
         "news_title": "Latest News",
         "footer_layout": "4",
-        "header_layout": "transparent"
+        "header_layout": "transparent",
+        "custom_css_post_id": -1
     },
     "widgets": {
         "sidebar-1": {
@@ -208,7 +210,7 @@
         "footer-1": {
             "text-3": {
                 "title": "About Screenr",
-                "text": "Big - Bold and stylish, Screenr is a multiuse parallax fullscreen WordPress theme.\r\n\r\nBe sure to check out the <a target=\"_blank\" href=\"http:\/\/demos.famethemes.com\/screenr\">Screenr Demo<\/a> or <a target=\"_blank\" href=\"http:\/\/demos.famethemes.com\/screenr-plus\">Screenr Plus Demo<\/a> to see some of the possibilities.        ",
+                "text": "Big - Bold and stylish, Screenr is a multiuse parallax fullscreen WordPress theme.\r\n\r\nBe sure to check out the <a target=\"_blank\" href=\"https:\/\/demos.famethemes.com\/screenr\">Screenr Demo<\/a> or <a target=\"_blank\" href=\"https:\/\/demos.famethemes.com\/screenr-plus\">Screenr Plus Demo<\/a> to see some of the possibilities.        ",
                 "filter": true
             }
         },
@@ -233,6 +235,26 @@
                 "filter": false
             }
         }
+    },
+    "widgets_config": {
+        "pages": [],
+        "calendar": [],
+        "archives": [],
+        "media_audio": [],
+        "media_image": [],
+        "media_video": [],
+        "meta": [],
+        "search": [],
+        "text": [],
+        "categories": [],
+        "recent-posts": [],
+        "recent-comments": [],
+        "rss": [],
+        "tag_cloud": [],
+        "nav_menu": [],
+        "custom_html": [],
+        "wpe_powered_by_widget": [],
+        "akismet_widget": []
     },
     "customizer_keys": {
         "slider_items": [
