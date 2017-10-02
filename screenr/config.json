@@ -24,7 +24,7 @@
         ],
         "slider_fullscreen": 1,
         "screenr_hide_tagline": 1,
-        "screenr_hide_sitetitle": 0,
+        "screenr_hide_sitetitle": "",
         "about_page_id": "8",
         "about_page_content_type": "content",
         "videolightbox_title": "Parallax &amp; Video Lightbox - Perfected",
